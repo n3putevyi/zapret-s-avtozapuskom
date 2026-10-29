@@ -1,1 +1,1 @@
-# zapret-s-avtozapuskom
+# zapret-s-avtozapuskom  для работы сделал
